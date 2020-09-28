@@ -1,8 +1,9 @@
 {
-  "name": "react-compound-slider",
+  "name": "@marklogic/react-compound-slider",
   "version": "3.0.0",
   "license": "MIT",
-  "author": "Steve Hall",
+  "author": "MarkLogic",
+  "desciption": "Modified version of react-compound-slider to work with MarkLogic Hub Central",
   "main": "dist/index.js",
   "types": "dist/types/index.d.ts",
   "modules": "dist/rcs.esm.js",
